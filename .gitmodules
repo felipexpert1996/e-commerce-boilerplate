@@ -1,3 +1,6 @@
 [submodule "e-commerce-boilerplate-backend"]
 	path = e-commerce-boilerplate-backend
 	url = git@github.com:felipexpert1996/e-commerce-boilerplate-backend.git
+[submodule "e-commerce-boilerplate-frontend"]
+	path = e-commerce-boilerplate-frontend
+	url = git@github.com:felipexpert1996/e-commerce-boilerplate-frontend.git
